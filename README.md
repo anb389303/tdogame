@@ -1,2 +1,2 @@
 # tdogame hello
-https://anb389303.github.io/tdogame/
+https://anb389303.github.io/tdogame
